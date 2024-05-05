@@ -2,4 +2,4 @@
 
 ./build.sh
 
-docker save joeranbosma/dragon_baseline_longformer_large_english_4096:latest | gzip -c > dragon_baseline_longformer_large_english_4096.tar.gz
+docker save joeranbosma/dragon_longformer_large_general_domain:latest | gzip -c > dragon_longformer_large_general_domain.tar.gz
